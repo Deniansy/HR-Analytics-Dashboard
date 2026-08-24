@@ -95,4 +95,4 @@ The project followed a standard analytics workflow:
 
 ---
 
-*Dashboard built in Excel with Power Query/Pivot-based modeling. File: `Dashboard_HR_Analytics.xlsx`*
+*Dashboard built in Excel with Power Query/Pivot-based modeling. File: [`Dashboard_HR_Analytics.xlsx`]([url](https://docs.google.com/spreadsheets/d/1RRWOnUjp_4CgOD3356GHOqDxx7RImfcX/edit?usp=sharing&ouid=108909113527976904684&rtpof=true&sd=true))*
