@@ -1,6 +1,6 @@
 # HR Analytics Dashboard | Employee Attrition & Workforce Analysis (ExceL)
 
-** HR Analytics, Attrition Analysis, Workforce Analytics, Exploratory Data Analysis (EDA), Human Resources, Excel Dashboard, DAX, Data Visualization
+### HR Analytics, Attrition Analysis, Workforce Analytics, Exploratory Data Analysis (EDA), Human Resources, Excel Dashboard, DAX, Data Visualization
 
 
 ---
