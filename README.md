@@ -5,13 +5,13 @@
 
 ---
 
-## 1. Executive Summary
+## Executive Summary
 
 This project analyzes workforce data across **988 employees** in **7 departments** to identify the drivers behind an alarming **50.3% attrition rate**. The interactive dashboard surfaces attrition hotspots by department, tenure, and employment type, revealing that Legal and IT carry the highest headcount-adjusted risk and that contract workers churn far more than permanent staff. These insights give HR leadership a data-driven basis to prioritize retention interventions where they will have the greatest financial and operational impact.
 
 ---
 
-## 2. Business Problem
+## Business Problem
 
 The organization was experiencing high employee turnover without a clear, centralized view of *where* and *why* it was happening. HR stakeholders lacked visibility into:
 
@@ -24,7 +24,7 @@ Without this visibility, retention budgets and HR initiatives were being allocat
 
 ---
 
-## 3. Methodology
+## Methodology
 
 The project followed a standard analytics workflow:
 
@@ -37,7 +37,7 @@ The project followed a standard analytics workflow:
 
 ---
 
-## 4. Granular Skills & Tools
+## Granular Skills & Tools
 
 **Tools**
 - Microsoft Excel (Pivot Tables, Pivot Charts, Power Query, Power Pivot)
@@ -55,7 +55,7 @@ The project followed a standard analytics workflow:
 
 ---
 
-## 5. Results & Business Recommendations
+## Results & Business Recommendations
 
 **Key Findings**
 
@@ -78,7 +78,7 @@ The project followed a standard analytics workflow:
 
 ---
 
-## 6. Next Steps & Limitations
+## Next Steps & Limitations
 
 **Next Steps (with more time/data)**
 - Incorporate **exit reason** and **compensation** data to move from *where* attrition happens to *why*
